@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: groq-config
+  namespace: groq-demo
+data:
+  GROQ_MODEL: "llama-3.3-70b-versatile"
+  API_BASE_URL: "http://api:8080"
