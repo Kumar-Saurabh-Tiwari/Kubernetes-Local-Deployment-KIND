@@ -2,6 +2,8 @@
 
 A compact, real-world learning project for Kubernetes + Groq AI. It is built to practice image builds, local dev, secrets management, and cluster workflows.
 
+![App preview](frontend/assets/app-review.png)
+
 ## Services 🧩
 
 - Frontend: Next.js app with a server route that proxies to the API 🖥️
